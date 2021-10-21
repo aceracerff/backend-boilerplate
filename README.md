@@ -6,9 +6,9 @@ git clone https://github.com/aceracerff/backend-boilerplate.git
 ```
 
 ## Run Spring (Backend) Server:
-Run the ```SideProjectApplication``` class in src/main
+Run ```SideProjectApplication```
 
 Server runs on port 8080 by default.
 
 ## To Change Datasource (currently MovieDB):
-Edit the ```spring.datasource``` fields ```in side-project/src/main/resources/application.properties```
+Edit the ```spring.datasource``` fields in ```src/main/resources/application.properties```
