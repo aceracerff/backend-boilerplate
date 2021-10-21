@@ -6,7 +6,8 @@ git clone https://github.com/aceracerff/backend-boilerplate.git
 ```
 
 ## Run Spring (Backend) Server:
-Run ```SideProjectApplication``` in INtelliJ
+Open project in IntelliJ via ```pom.xml```
+Run ```SideProjectApplication```
 
 Server runs on port 8080 by default.
 
