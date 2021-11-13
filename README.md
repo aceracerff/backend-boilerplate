@@ -2,7 +2,7 @@
 
 ## Pull down:
 ```
-git clone https://github.com/aceracerff/backend-boilerplate.git
+git clone https://github.com/jordanwelzbacher/backend-boilerplate.git
 ```
 
 ## Run Spring (Backend) Server:
